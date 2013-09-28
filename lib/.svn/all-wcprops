@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/24/trunk/sobriety/lib
+END
+hk2-api-2.1.88.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/24/trunk/sobriety/lib/hk2-api-2.1.88.jar
+END
+jersey-common.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/24/trunk/sobriety/lib/jersey-common.jar
+END
+javax.ws.rs-api-2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/24/trunk/sobriety/lib/javax.ws.rs-api-2.0.jar
+END
+cglib-2.1.88.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/24/trunk/sobriety/lib/cglib-2.1.88.jar
+END
+jersey-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/24/trunk/sobriety/lib/jersey-client.jar
+END
+hk2-utils-2.1.88.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/24/trunk/sobriety/lib/hk2-utils-2.1.88.jar
+END
+javax.inject-2.1.88.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/24/trunk/sobriety/lib/javax.inject-2.1.88.jar
+END
+hk2-locator-2.1.88.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/24/trunk/sobriety/lib/hk2-locator-2.1.88.jar
+END
+guava-14.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/24/trunk/sobriety/lib/guava-14.0.1.jar
+END

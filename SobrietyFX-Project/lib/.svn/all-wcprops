@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/26/trunk/sobriety/SobrietyFX-Project/lib
+END
+jersey-common-2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26/trunk/sobriety/SobrietyFX-Project/lib/jersey-common-2.0.jar
+END
+asm-all-repackaged-2.1.88.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/26/trunk/sobriety/SobrietyFX-Project/lib/asm-all-repackaged-2.1.88.jar
+END
+hk2-api-2.1.88.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26/trunk/sobriety/SobrietyFX-Project/lib/hk2-api-2.1.88.jar
+END
+javax.ws.rs-api-2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26/trunk/sobriety/SobrietyFX-Project/lib/javax.ws.rs-api-2.0.jar
+END
+javax.annotation-api-1.2-b04.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/26/trunk/sobriety/SobrietyFX-Project/lib/javax.annotation-api-1.2-b04.jar
+END
+jersey-client-2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26/trunk/sobriety/SobrietyFX-Project/lib/jersey-client-2.0.jar
+END
+cglib-2.1.88.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26/trunk/sobriety/SobrietyFX-Project/lib/cglib-2.1.88.jar
+END
+hk2-utils-2.1.88.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26/trunk/sobriety/SobrietyFX-Project/lib/hk2-utils-2.1.88.jar
+END
+junit-3.8.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26/trunk/sobriety/SobrietyFX-Project/lib/junit-3.8.1.jar
+END
+javax.inject-2.1.88.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26/trunk/sobriety/SobrietyFX-Project/lib/javax.inject-2.1.88.jar
+END
+hk2-locator-2.1.88.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26/trunk/sobriety/SobrietyFX-Project/lib/hk2-locator-2.1.88.jar
+END
+guava-14.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/26/trunk/sobriety/SobrietyFX-Project/lib/guava-14.0.1.jar
+END
+osgi-resource-locator-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/26/trunk/sobriety/SobrietyFX-Project/lib/osgi-resource-locator-1.0.1.jar
+END
